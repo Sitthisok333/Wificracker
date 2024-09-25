@@ -6,7 +6,7 @@ Command for All needed root
 
 sudo apt-get update && apt-get install git
 
-sudo git clone https://github.com/Sitthisok333/Sitthisok333/
+sudo git clone https://github.com/Sitthisok333/Wificracker/tree/main
 
 cd Wifi-Hacking/
 
